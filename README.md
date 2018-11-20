@@ -7,7 +7,7 @@
 - Object-C;
 - SAP;
 - PHP;
-
+- OpenCV;
 
 ## Features
 - Load Product data from SAP (ERP)
